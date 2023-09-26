@@ -8,3 +8,5 @@ az F5 gombbal, majd a menüből vissza lehet tölteni, illetve van egy eredmény
 
 A programban található még továbbá JUnit test is. 
 A "Dokumentáció" mappában van JavaDoc dokumentáció, Felhasználói kézikönyv és UML diagram is.
+
+src/mins/Main.java-t indítsd
