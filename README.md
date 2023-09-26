@@ -1,4 +1,4 @@
-Ezt a programot készítettem házínak a "Programozás alapjai 3" tárgyra (BME-VIK).
+Ezt a programot készítettem házinak a "Programozás alapjai 3" tárgyra (BME-VIK).
 
 Ez egy továbbfejlesztett aknakereső, ami igazából annyit jelent, hogy van egy visszaszámláló alul a 
 játékmezőn, ez időn belül kell teljesíteni a játékot, illetve kettő darab bomba van. A már jól ismert
