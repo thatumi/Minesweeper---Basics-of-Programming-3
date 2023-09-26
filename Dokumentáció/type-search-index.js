@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"mins","l":"minesweeper.aknaEger"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"mins","l":"eredmenytabla"},{"p":"mins","l":"idozito"},{"p":"mins","l":"Main"},{"p":"mins","l":"minesweeper"},{"p":"<Unnamed>","l":"teszt"}];updateSearchResults();
