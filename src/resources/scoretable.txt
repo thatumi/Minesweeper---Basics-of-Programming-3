@@ -1,0 +1,10 @@
+maxiTeszt	999
+maxiTeszt	999
+maxiTeszt	999
+maxiTeszt	999
+maxiTeszt	999
+élesTeszt	101
+hurrá	94
+Alada1	80
+Alada2	70
+Alada3	2
